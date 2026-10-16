@@ -11,5 +11,3 @@ Start
 Write
 
 git clone
-
-https://github.com/jaredchriss/Video/blob/b9221d0e85fc810ce4283efefd3e075f1b806c48/Pearson
